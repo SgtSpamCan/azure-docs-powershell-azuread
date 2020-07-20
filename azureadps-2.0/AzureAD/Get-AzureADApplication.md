@@ -47,7 +47,7 @@ This command gets an application by its display name.
 
 ### Example 2: Get an application by ID
 ```
-PS C:\>Get-AzureADApplication -Filter "AppId eq 'ed192e92-84d4-4baf-997d-1e190a81f28e'"
+PS C:\>Get-AzureADApplication -Filter "AppId eq '36ee4c6c-0812-40a2-b820-b22ebd02bce3'"
 ```
 
 This command gets an application by its ID.
